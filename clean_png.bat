@@ -1,0 +1,1 @@
+python C:\Users\Boba\Documents\GitHub\Projects\CLEANING_UP_TRASH\clean_png.py
