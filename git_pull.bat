@@ -6,7 +6,7 @@ REM Устанавливаем переменную, чтобы Python рабо�
 set PYTHONUTF8=1
 
 REM Запускаем скрипт по абсолютному пути (в кавычках из-за пробелов)
-py -3 "C:\Users\Boba\Documents\GitHub\Projects\Scripts\GitHub scripts\git_pull.py"
+py -3 "C:\Users\Boba\OneDrive\Документы\Scripts\GitHub scripts\git_pull.py"
 
 REM Показать код возврата и оставить окно открытым
 echo Exit code: %ERRORLEVEL%
